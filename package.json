@@ -1,0 +1,20 @@
+{
+  "name": "api-rest-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Astrid Vanegas",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chalk": "^2.4.1",
+    "hapi": "^16.1.1",
+    "mocha": "^5.1.1",
+    "mongoose": "^5.1.1",
+    "nodemon": "^1.17.4"
+  }
+}
